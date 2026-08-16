@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31111529/README.md)
-# Netflix_data_visualization# 🎬 Netflix Data Visualization
+# 🎬 Netflix Data Visualization
 
 > **Exploratory Data Analysis of Netflix Movies & TV Shows using Python, Pandas & Matplotlib**
 
