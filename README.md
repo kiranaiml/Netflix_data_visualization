@@ -3,7 +3,7 @@
 > **Exploratory Data Analysis of Netflix Movies & TV Shows using Python, Pandas & Matplotlib**
 
 <p align="center">
-  <img src="assets/movies_vs_tv_shows.png" alt="Movies vs TV Shows" width="700">
+  <img src="assets/compare_of_movies_and_tvshows.png" alt="Movies vs TV Shows" width="700">
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ Before creating the visualizations, the dataset was inspected and prepared for a
 ## 1. 🎞️ Movies vs TV Shows
 
 <p align="center">
-  <img src="assets/movies_vs_tv_shows.png" alt="Number of Movies vs TV Shows" width="750">
+  <img src="assets/compare_of_movies_and_tvshows.png" alt="Number of Movies vs TV Shows" width="750">
 </p>
 
 ### What the chart shows
@@ -103,7 +103,7 @@ The comparison makes the difference between the two content types immediately vi
 ## 2. 📈 Movies & TV Shows Released Over the Years
 
 <p align="center">
-  <img src="assets/release_trends.png" alt="Movies and TV Shows Released Over the Years" width="950">
+  <img src="assets/Releasing_year_and_tvshow.png" alt="Movies and TV Shows Released Over the Years" width="950">
 </p>
 
 ### What the chart shows
@@ -123,7 +123,7 @@ The release trends show a major increase in Netflix titles in the later years of
 ## 3. 🔞 Content Rating Distribution
 
 <p align="center">
-  <img src="assets/content_ratings.png" alt="Netflix Content Rating Distribution" width="850">
+  <img src="assets/content_rating.png" alt="Netflix Content Rating Distribution" width="850">
 </p>
 
 ### Key observations
@@ -145,7 +145,7 @@ TV-MA and TV-14 together make up a large portion of the categorized content, sho
 ## 4. ⏱️ Movie Duration Distribution
 
 <p align="center">
-  <img src="assets/movie_duration.png" alt="Movie Duration Histogram" width="900">
+  <img src="assets/duration_view_histogram_chart.png" alt="Movie Duration Histogram" width="900">
 </p>
 
 ### What the histogram shows
@@ -183,10 +183,10 @@ Netflix_data_visualization/
 ├── 📄 README.md
 │
 └── 📁 assets/
-    ├── 🖼️ movies_vs_tv_shows.png
-    ├── 🖼️ release_trends.png
-    ├── 🖼️ content_ratings.png
-    └── 🖼️ movie_duration.png
+    ├── 🖼️ compare_of_movies_and_tvshows.png
+    ├── 🖼️ Releasing_year_and_tvshow.png
+    ├── 🖼️ content_rating.png
+    └── 🖼️ duration_view_histogram_chart.png
 ```
 
 > Update the Python and CSV filenames above if your actual repository uses different names.
